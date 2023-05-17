@@ -18,7 +18,7 @@ There are 61,392 trips in total over 30 days (from 11/01/2022 to 11/30/2022), or
 
 ## Full Data Access
 The data are not publicly available due to privacy. But we welcome all researchers and developers to contact us to request the data.
-Please send us a request form (Download form here ) to this email: jn2551@columbia.edu
+Please send us a request form ([Download form here](/image/data_request_form.pdf) ) to this email: jn2551@columbia.edu
 
 ## Citation
 If your academic work has used our dataset, please cite our paper below.
